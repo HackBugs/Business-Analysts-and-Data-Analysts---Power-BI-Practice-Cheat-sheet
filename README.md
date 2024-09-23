@@ -5,4 +5,6 @@
 
 - [Microsoft officle webiste for dataset ](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel)
 
+- [DAX-Queries](https://learn.microsoft.com/en-us/dax/dax-queries)
+
 
