@@ -7,4 +7,5 @@
 
 - [DAX-Queries](https://learn.microsoft.com/en-us/dax/dax-queries)
 
+- [Power-Query](https://learn.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
