@@ -1,0 +1,52 @@
+﻿StateID,StateName,Region,Division
+AK,Alaska,West,Pacific
+AL,Alabama,South,East South Central
+AR,Arkansas,South,West South Central
+AZ,Arizona,West,Mountain
+CA,California,West,Pacific
+CO,Colorado,West,Mountain
+CT,Connecticut,Northeast,New England
+DC,District of Columbia,South,South Atlantic
+DE,Delaware,South,South Atlantic
+FL,Florida,South,South Atlantic
+GA,Georgia,South,South Atlantic
+HI,Hawaii,West,Pacific
+IA,Iowa,Midwest,West North Central
+ID,Idaho,West,Mountain
+IL,Illinois,Midwest,East North Central
+IN,Indiana,Midwest,East North Central
+KS,Kansas,Midwest,West North Central
+KY,Kentucky,South,East South Central
+LA,Louisiana,South,West South Central
+MA,Massachusetts,Northeast,New England
+MD,Maryland,South,South Atlantic
+ME,Maine,Northeast,New England
+MI,Michigan,Midwest,East North Central
+MN,Minnesota,Midwest,West North Central
+MO,Missouri,Midwest,West North Central
+MS,Mississippi,South,East South Central
+MT,Montana,West,Mountain
+NC,North Carolina,South,South Atlantic
+ND,North Dakota,Midwest,West North Central
+NE,Nebraska,Midwest,West North Central
+NH,New Hampshire,Northeast,New England
+NJ,New Jersey,Northeast,Middle Atlantic
+NM,New Mexico,West,Mountain
+NV,Nevada,West,Mountain
+NY,New York,Northeast,Middle Atlantic
+OH,Ohio,Midwest,East North Central
+OK,Oklahoma,South,West South Central
+OR,Oregon,West,Pacific
+PA,Pennsylvania,Northeast,Middle Atlantic
+RI,Rhode Island,Northeast,New England
+SC,South Carolina,South,South Atlantic
+SD,South Dakota,Midwest,West North Central
+TN,Tennessee,South,East South Central
+TX,Texas,South,West South Central
+UT,Utah,West,Mountain
+VA,Virginia,South,South Atlantic
+VT,Vermont,Northeast,New England
+WA,Washington,West,Pacific
+WI,Wisconsin,Midwest,East North Central
+WV,West Virginia,South,South Atlantic
+WY,Wyoming,West,Mountain

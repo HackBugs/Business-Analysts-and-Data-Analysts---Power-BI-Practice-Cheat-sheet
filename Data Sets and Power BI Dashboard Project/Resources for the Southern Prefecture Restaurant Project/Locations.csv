@@ -1,0 +1,9 @@
+﻿ID,OpenDate,City,StateProvinceCode,StateProvinceName,CountryRegionCode,CountryRegionName,Phone,StreetNumber,StreetName,GeneralManager
+1,1/1/2019,Louisville,KY,Kentucky,US,United States,502-452-5934,7130,Heritage St.,Jolie Barajas
+2,7/1/2019,Chicago,IL ,Illinois,US,United States,312-992-1320,887,Cottage Avenue,Stanley Taylor
+3,12/1/2019,Atlanta,GA ,Georgia,US,United States,404-929-4320,489,Ketch Harbour Lane,Iyana Newton
+4,3/1/2020,Seattle,WA ,Washington,US,United States,206-793-2861,174,Elizabeth Lane,Essence Hudson
+5,3/1/2021,Vancouver,BC ,British Columbia,CA,Canada,604-989-8918,9213,Linda Street,Kiersten Marquez
+6,7/1/2021,New York,NY ,New York,US,United States,212-960-6057,90,Jefferson Street,Jaylyn Lowe
+7,10/1/2021,Toronto,ON ,Ontario,CA,Canada,647-723-1122,8983,Hickory Dr.,Londyn Bright
+8,,Las Vegas,NV,Nevada,US,United States,,,,

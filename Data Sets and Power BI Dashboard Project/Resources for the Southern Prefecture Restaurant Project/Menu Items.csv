@@ -1,0 +1,37 @@
+﻿ID,Name,CategoryID,SpicyFlag,VeganFlag,Price
+1,Gyoza,1,0,0,10.49
+2,Garlic Chili Edamame,1,1,1,10.99
+3,Seaweed Salad,1,0,1,3.99
+4,Biscuits & Peach Butter,1,0,0,8.99
+5,Fried Green Tomatoes,1,0,1,10.99
+6,Fried Mac & Cheese,1,0,0,3.99
+7,Tonkotsu Ramen,2,0,0,5.49
+8,Shoyu Ramen,2,0,0,6.99
+9,Miso Ramen,2,0,0,7.99
+10,Fire Ramen,2,1,0,18.99
+11,Curry Ramen,2,1,0,17.49
+12,Vegetable Ramen,2,0,1,16.99
+13,Kentucky-Style Fried Chicken (2 Piece),3,0,0,14.99
+14,Kentucky-Style Fried Chicken (4 Piece),3,0,0,12.49
+15,Nashville Hot Chicken (2 Piece),3,1,0,12.99
+16,Nashville Hot Chicken (4 Piece),3,1,0,13.49
+17,Katsu Chicken,3,0,0,14.49
+18,Kara Age,3,0,0,3.99
+19,Sesame Ginger Slaw,4,0,1,2.99
+20,Steamed Rice,4,0,1,1.99
+21,Fried Rice,4,0,0,1.99
+22,Datil Pepper Collard Greens,4,1,0,2.99
+23,Mac & Cheese,4,0,0,4.99
+24,Baked Beans,4,0,1,5.99
+25,Green Tea Tiramasu,5,0,0,7.99
+26,Mochi Sampler,5,0,0,8.99
+27,Green Tea Tempura Ice Cream,5,0,0,3.99
+28,Peach Cobbler,5,0,0,7.99
+29,Pecan Pie,5,0,0,1.99
+30,Banana Pudding,5,0,0,2.99
+31,Green Tea,6,0,1,1.99
+32,Matcha Tea,6,0,1,1.99
+33,Boba Tea,6,0,0,2.99
+34,Sweet Tea,6,0,1,1.49
+35,Soda,6,0,1,1.99
+36,Water,6,0,1,1.99

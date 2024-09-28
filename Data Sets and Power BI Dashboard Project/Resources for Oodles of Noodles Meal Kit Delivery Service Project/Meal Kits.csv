@@ -1,0 +1,31 @@
+﻿ID,Item,CuisineTypeID,VeganFlag,SpicyFlag
+1,Tonkotsu Ramen,1,0,0
+2,Shoyu Ramen,1,0,0
+3,Miso Ramen,1,0,0
+4,Fire Ramen,1,0,1
+5,Curry Ramen,1,0,1
+6,Vegetable Ramen,1,1,1
+7,Tom Yum Noodle Soup (Chicken),2,0,1
+8,Tom Yum Noodle Soup (Shrimp),2,0,1
+9,Tom Yum Noodle Soup (Steak),2,0,1
+10,Tom Yum Noodle Soup (Vegetable),2,1,1
+11,Tom Kha Noodle Soup (Chicken),2,0,1
+12,Tom Kha Noodle Soup (Shrimp),2,0,1
+13,Tom Kha Noodle Soup (Steak),2,0,1
+14,Tom Kha Noodle Soup (Vegetable),2,1,1
+15,Rare Steak Pho,3,0,0
+16,Meatball Pho,3,0,0
+17,Brisket Pho,3,0,0
+18,Tripe Pho,3,0,0
+19,Udon Noodle Soup (Chicken),1,0,0
+20,Udon Noodle Soup (Shrimp),1,0,0
+21,Udon Noodle Soup (Steak),1,0,0
+22,Udon Noodle Soup (Vegetable),1,1,0
+23,Soba Noodle Soup (Chicken),1,0,0
+24,Soba Noodle Soup (Shrimp),1,0,0
+25,Soba Noodle Soup (Steak),1,0,0
+26,Soba Noodle Soup (Vegetable),1,1,0
+27,Saimin (Chicken),4,0,0
+28,Saimin (Shrimp),4,0,0
+29,Saimin (Steak),4,0,0
+30,Saimin (Vegetable),4,1,0
