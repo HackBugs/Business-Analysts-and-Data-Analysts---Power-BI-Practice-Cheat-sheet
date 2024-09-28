@@ -11,6 +11,50 @@
 
 ---
 
+Here are some top websites where you can download datasets for practicing Excel and Power BI:
+
+### 1. **Kaggle**
+- **Website:** [Kaggle Datasets](https://www.kaggle.com/datasets)
+- **Description:** Kaggle is a popular platform for data science competitions and hosts a vast collection of datasets in various domains, including finance, health, and social sciences.
+
+### 2. **UCI Machine Learning Repository**
+- **Website:** [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- **Description:** A well-known repository for machine learning datasets, offering datasets for various research and educational purposes.
+
+### 3. **Data.gov**
+- **Website:** [Data.gov](https://www.data.gov/)
+- **Description:** The U.S. government's open data site, providing access to a wide range of datasets on various topics, including economics, health, and public safety.
+
+### 4. **Google Dataset Search**
+- **Website:** [Google Dataset Search](https://datasetsearch.research.google.com/)
+- **Description:** A search engine for datasets across the web, allowing users to find datasets from various sources.
+
+### 5. **World Bank Data**
+- **Website:** [World Bank Open Data](https://data.worldbank.org/)
+- **Description:** Offers extensive datasets related to global development, including economic, social, and environmental data.
+
+### 6. **AWS Open Data Registry**
+- **Website:** [AWS Open Data](https://registry.opendata.aws/)
+- **Description:** A collection of publicly available datasets that can be accessed via Amazon Web Services.
+
+### 7. **FiveThirtyEight**
+- **Website:** [FiveThirtyEight Data](https://data.fivethirtyeight.com/)
+- **Description:** Offers datasets used in FiveThirtyEight articles, covering topics like politics, sports, and economics.
+
+### 8. **Open Data Portal by the European Union**
+- **Website:** [EU Open Data Portal](https://data.europa.eu/en)
+- **Description:** Provides access to data published by the European Union institutions and bodies.
+
+### 9. **Quandl**
+- **Website:** [Quandl](https://www.quandl.com/)
+- **Description:** A platform for financial, economic, and alternative datasets, useful for economic analysis.
+
+### 10. **Public APIs**
+- **Website:** [Public APIs](https://public-apis.io/)
+- **Description:** A directory of free APIs for various data sources, which can be used to fetch datasets programmatically.
+
+---
+
 ### Complete List of DAX Functions with Descriptions in English
 
 | Function Name                | Description                                                                                  |
