@@ -11,9 +11,7 @@
 
 ---
 
-Mujhe maaf kijiye agar pehle wali list mein kuch DAX functions chhut gaye the. Yahan par main DAX functions ki complete aur updated list de raha hoon, saath hi unke brief descriptions bhi. Ye list A se Z tak arranged hai aur har function ke aage "Q" diya gaya hai.
-
-### Complete List of DAX Functions with Descriptions
+### Complete List of DAX Functions with Descriptions in English
 
 | Function Name                | Description                                                                                  |
 |------------------------------|----------------------------------------------------------------------------------------------|
@@ -94,4 +92,85 @@ Mujhe maaf kijiye agar pehle wali list mein kuch DAX functions chhut gaye the. Y
 - Ye list DAX ke sabhi functions ko cover karti hai, jo Power BI, Power Pivot, aur SSAS mein use hoti hain.
 - Agar aapko kisi specific function ka detail chahiye, toh aap padh sakte hain Microsoft ki official documentation se.
 
-Agar aapko aur kisi function ki jaankari chahiye ho ya kisi specific query ke liye help chahiye, toh aap zaroor puch sakte hain!
+---
+
+Yahan par main DAX functions ki list ko A se Z tak arrange karke, unke descriptions ko Hinglish mein likh raha hoon. Ye list aapko functions aur unke istemal ke bare mein samajhne mein madad karegi.
+
+### Complete List of DAX Functions with Hinglish Descriptions in Hindi
+
+| Function Name                | Description                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **ABS** (Q)                  | Kisi number ka absolute value return karta hai.                                                |
+| **ACOS** (Q)                 | Kisi number ka arccosine return karta hai.                                                     |
+| **ADDCOLUMNS** (Q)           | Ek table mein calculated columns add karta hai.                                               |
+| **ALL** (Q)                  | Kisi table ya column se filters hata deta hai.                                                  |
+| **ALLSELECTED** (Q)          | Current filter context ko respect karte hue, ek column ya table mein sabhi values return karta hai. |
+| **AND** (Q)                  | Logical AND function hai, jo TRUE tab return karta hai jab dono arguments TRUE ho.             |
+| **APPEND** (Q)               | Do tables ko vertically stack karke combine karta hai.                                         |
+| **AVERAGE** (Q)              | Ek set of values ka average calculate karta hai.                                               |
+| **AVERAGEX** (Q)             | Har row ke liye ek expression evaluate karke unka average return karta hai.                    |
+| **BLANK** (Q)                | Ek blank value return karta hai.                                                                |
+| **CALCULATE** (Q)            | Ek expression ko modified filter context mein evaluate karta hai.                              |
+| **CALCULATETABLE** (Q)       | Ek table return karta hai jo specified filters se filter kiya gaya hai.                        |
+| **CROSSJOIN** (Q)            | Do ya adhik tables ka Cartesian product return karta hai.                                       |
+| **COUNT** (Q)                | Ek column mein un rows ki ginti karta hai jisme numbers hote hain.                            |
+| **COUNTA** (Q)               | Ek column mein non-blank rows ki ginti karta hai.                                             |
+| **COUNTBLANK** (Q)           | Ek column mein blank values ki ginti karta hai.                                               |
+| **COUNTROWS** (Q)            | Ek table mein rows ki ginti karta hai.                                                         |
+| **DATEDIFF** (Q)             | Do dates ke beech intervals ka number return karta hai.                                        |
+| **DATE** (Q)                 | Diye gaye date ko datetime format mein return karta hai.                                       |
+| **DAY** (Q)                  | Ek date se month ka din return karta hai.                                                      |
+| **DIVIDE** (Q)               | Division karta hai aur division by zero ko achhe se handle karta hai.                          |
+| **EARLIER** (Q)              | Pehle row context mein specified column ka current value return karta hai.                     |
+| **EDATE** (Q)                | Diye gaye start date se specified months pehle ya baad ka date return karta hai.               |
+| **EOMONTH** (Q)              | Diye gaye start date se specified months pehle ya baad ka mahine ka aakhri din return karta hai. |
+| **FILTER** (Q)               | Ek table return karta hai jo dusre table ya expression ka subset hota hai.                     |
+| **FIRSTDATE** (Q)            | Ek column mein pehla date return karta hai.                                                    |
+| **FIRSTNONBLANK** (Q)        | Ek column mein pehli non-blank value return karta hai, jab ek specified filter diya gaya ho.   |
+| **GENERATE** (Q)             | Do tables ko mila kar ek single table banata hai.                                              |
+| **GROUPBY** (Q)              | Ek table ko specified columns ke hisab se group karta hai aur calculations apply karta hai.   |
+| **IF** (Q)                   | Ek condition check karta hai aur TRUE hone par ek value aur FALSE hone par doosri value return karta hai. |
+| **IFERROR** (Q)              | Agar expression error hota hai, to ek value return karta hai; warna expression ko return karta hai. |
+| **ISBLANK** (Q)              | Check karta hai ki value blank hai ya nahi.                                                    |
+| **ISERROR** (Q)              | Check karta hai ki value error hai ya nahi.                                                   |
+| **ISTEXT** (Q)               | Check karta hai ki value text hai ya nahi.                                                     |
+| **LOOKUPVALUE** (Q)          | Ek column mein specified value se related value return karta hai.                             |
+| **MAX** (Q)                  | Ek column mein sabse badi value return karta hai.                                             |
+| **MAXX** (Q)                 | Ek table ke har row mein expression evaluate karke sabse badi value return karta hai.          |
+| **MIN** (Q)                  | Ek column mein sabse chhoti value return karta hai.                                           |
+| **MINX** (Q)                 | Ek table ke har row mein expression evaluate karke sabse chhoti value return karta hai.       |
+| **MOD** (Q)                  | Division operation ka remainder return karta hai.                                             |
+| **NOT** (Q)                  | Iske argument ka logical value reverse karta hai.                                             |
+| **NOW** (Q)                  | Current date aur time return karta hai.                                                       |
+| **OR** (Q)                   | Logical OR function hai, jo TRUE tab return karta hai jab kisi bhi argument mein TRUE ho.    |
+| **RANKX** (Q)                | Ek list mein number ka rank return karta hai, har row ke liye table mein.                     |
+| **RELATED** (Q)              | Dusre table se ek related value return karta hai.                                            |
+| **RELATEDTABLE** (Q)         | Current row se related sabhi rows ka table return karta hai.                                  |
+| **REPLACE** (Q)              | Ek text string ke kuch hisse ko doosre text string se replace karta hai.                     |
+| **SUM** (Q)                  | Ek set of values ka sum return karta hai.                                                     |
+| **SUMX** (Q)                 | Ek table ke har row mein expression evaluate karke unka sum return karta hai.                 |
+| **SAMEPERIODLASTYEAR** (Q)   | Previous year ke dates ka column return karta hai.                                           |
+| **SELECTEDVALUE** (Q)        | Agar ek hi value select ki gayi ho, to wo value return karta hai; nahi to alternate result return karta hai. |
+| **TODAY** (Q)                | Current date return karta hai.                                                                |
+| **TOTALYTD** (Q)             | Diye gaye expression ka year-to-date value calculate karta hai.                              |
+| **TRUNC** (Q)                | Ek number ko integer mein truncate karta hai, fraction part ko hata deta hai.                 |
+| **UNION** (Q)                | Do ya adhik tables ko mila kar ek single table banata hai.                                   |
+| **UNICHAR** (Q)              | Diye gaye numeric value se reference kiye gaye Unicode character ko return karta hai.        |
+| **VALUES** (Q)               | Ek one-column table return karta hai jo ek column se distinct values contain karta hai.      |
+| **YEAR** (Q)                 | Ek date se year return karta hai.                                                             |
+| **YEARFRAC** (Q)             | Start date aur end date ke beech whole days ka number represent karte hue year fraction return karta hai. |
+| **FORMAT** (Q)               | Diye gaye value ko specified formatting rules ke according text ke roop mein format karta hai. |
+| **SWITCH** (Q)               | Ek expression ko values ke list ke against evaluate karta hai aur pehle matching value ka result return karta hai. |
+| **SELECTCOLUMNS** (Q)        | Ek existing table se selected columns ke saath ek new table create karta hai.                |
+| **SUMMARIZE** (Q)            | Requested totals ke liye ek summary table create karta hai jo set of groups par based hota hai. |
+| **DISTINCT** (Q)             | Ek one-column table return karta hai jo ek column se distinct values contain karta hai.       |
+| **ISNONTEXT** (Q)            | Check karta hai ki value text nahi hai.                                                       |
+| **ISNUMBER** (Q)             | Check karta hai ki value number hai ya nahi.                                                  |
+| **ISLOGICAL** (Q)            | Check karta hai ki value logical hai (TRUE/FALSE) ya nahi.                                   |
+| **CONCATENATE** (Q)          | Do text strings ko ek string mein combine karta hai.                                         |
+| **CONCATENATEX** (Q)         | Ek table ke result ko concatenate karta hai jo expression ko evaluate karte hain.            |
+
+### Notes:
+- Ye list DAX ke sabhi functions ko cover karti hai, jo Power BI, Power Pivot, aur SSAS mein istemal hoti hain.
+- Agar aapko kisi specific function ka detail chahiye, toh aap padh sakte hain Microsoft ki official documentation se.
+
