@@ -53,6 +53,11 @@ Here are some top websites where you can download datasets for practicing Excel 
 - **Website:** [Public APIs](https://public-apis.io/)
 - **Description:** A directory of free APIs for various data sources, which can be used to fetch datasets programmatically.
 
+These websites are:
+1. https://www.onlinedatagenerator.com
+2. https://mockaroo.com
+3. https://www.generatedata.com/
+
 ---
 
 ### Complete List of DAX Functions with Descriptions in English
