@@ -1,4 +1,4 @@
-# Power-BI-Practice-Cheat-sheet
+> # Power-BI-Practice-Cheat-sheet
 
 - Insatll Power-Bi from Microsoft Store
 - [Dowanld Data sate fro prectice Power-BI](https://github.com/microsoft/powerbi-desktop-samples/tree/main/powerbi-service-samples)
@@ -13,9 +13,35 @@
 
 - [Data.gov](https://data.gov/)
 
+<hr>
+
+> ## The BEA is a key agency providing economic data in the U.S. India has similar government agencies that provide economic and statistical data. Here are some websites you might find useful:
+
+1. **Ministry of Statistics and Programme Implementation (MoSPI)**  
+   This is the Indian government's official body responsible for the collection and analysis of economic data.
+   - Website: [http://www.mospi.gov.in](http://www.mospi.gov.in)
+
+2. **Reserve Bank of India (RBI)**  
+   The RBI provides extensive economic data, including national accounts, inflation rates, and financial statistics.
+   - Website: [https://www.rbi.org.in](https://www.rbi.org.in)
+
+3. **National Statistical Office (NSO)**  
+   A part of MoSPI, the NSO publishes data related to national accounts, labor, agriculture, and more.
+   - Website: [http://www.nsso.gov.in](http://www.nsso.gov.in)
+
+4. **Economic Survey of India**  
+   The Economic Survey, published annually by the Ministry of Finance, provides a detailed analysis of India's economy.
+   - Website: [https://www.indiabudget.gov.in/economicsurvey](https://www.indiabudget.gov.in/economicsurvey)
+
+5. **Government of India - IndiaStats**  
+   A portal dedicated to presenting statistical data on various sectors in India.
+   - Website: [https://www.indiastat.com](https://www.indiastat.com)
+
+These websites provide official data on economic performance, trends, and government activities in India, similar to the role of the BEA in the United States.
+
 ---
 
-Here are some top websites where you can download datasets for practicing Excel and Power BI:
+> ## Here are some top websites where you can download datasets for practicing Excel and Power BI:
 
 ### 1. **Kaggle**
 - **Website:** [Kaggle Datasets](https://www.kaggle.com/datasets)
