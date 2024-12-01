@@ -9,6 +9,8 @@
 
 - [Power-Query](https://learn.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
+- [Download - Data](https://www.bea.gov/)
+
 ---
 
 Here are some top websites where you can download datasets for practicing Excel and Power BI:
