@@ -18,7 +18,7 @@
 
 > # Excel add-ins Plugins
 
-1. Script Lab
+1. Script Lab, a Microsoft Garage project
 
 <hr>
 
