@@ -16,6 +16,10 @@
 
 - [Data.gov](https://data.gov/)
 
+> # Excel add-ins Plugins
+
+1. Script Lab
+
 <hr>
 
 > ## The BEA is a key agency providing economic data in the U.S. India has similar government agencies that provide economic and statistical data. Here are some websites you might find useful:
